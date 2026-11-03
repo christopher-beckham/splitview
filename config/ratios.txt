@@ -1,0 +1,4 @@
+# Split View ratios for ⌘⇧, (left:right). Each press moves to the next line
+# (wrapping around). Edits take effect on the next press, with no reload needed.
+80:20
+60:40
